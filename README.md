@@ -8,4 +8,4 @@ Welcome to my Github Page
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=arubenruben&count_private=true&show_icons=true&theme=dark)
 
-Note: The four paws also loves tech.
+Note : The four paws also loves tech.
