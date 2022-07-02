@@ -1,6 +1,6 @@
 ### Rúben Almeida
 
-Hi there. My name is Rúben Almeida and the cat is Ruca🐈. We are from Oporto, Portugal second major city. 
+Hi there. My name is Rúben Almeida and the cat is Ruca🐈. We are from Porto, Portugal second major city. 
 
 I'm attending a master's in Computer Engineering at FEUP (Faculty of Engineering of the Porto University)
 
