@@ -6,7 +6,7 @@ I'm attending a master's in Computer Engineering at FEUP (Faculty of Engineering
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rúben_Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/almeida-ruben//)](https://www.linkedin.com/in/almeida-ruben)
 
-**My Curriculum Vitae is avaiable for [download](https://drive.google.com/file/d/1ysybVzGj6aR-QepWwU49xq-sKK08GRkZ/view?usp=sharing)
+**My Curriculum Vitae is avaiable for [download](https://drive.google.com/file/d/1ysybVzGj6aR-QepWwU49xq-sKK08GRkZ/view?usp=sharing)**
 
 Welcome to my Github Page
 
