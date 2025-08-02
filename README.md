@@ -1,12 +1,10 @@
 ### Rúben Almeida
 
-Hi there. My name is Rúben Almeida and the cat is Ruca🐈. We are from Porto, Portugal second major city. 
+Hi there. My name is Rúben Almeida, and the cat is Ruca🐈. We are from Porto, Portugal's second-largest city. 
 
-I'm attending a master's in Computer Engineering at FEUP (Faculty of Engineering of the Porto University)
+I'm NLP engineer at dstgroup and assistant teacher at the Faculty of Engineering at the University of Porto.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rúben_Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/almeida-ruben//)](https://www.linkedin.com/in/almeida-ruben)
-
-**My Curriculum Vitae is avaiable for [download](https://drive.google.com/file/d/18YgFsZDFXgG0GB-zNz0qu-VpLpm40FNL/view?usp=sharing)**
 
 Welcome to my Github Page
 
