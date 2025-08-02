@@ -2,7 +2,7 @@
 
 Hi there. My name is Rúben Almeida, and the cat is Ruca🐈. We are from Porto, Portugal's second-largest city. 
 
-I'm NLP engineer at dstgroup and assistant teacher at the Faculty of Engineering at the University of Porto.
+I'm NLP engineer at dstgroup, assistant teacher at the Faculty of Engineering at the University of Porto and external NLP researcher at LIAAD/INESC TEC.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rúben_Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/almeida-ruben//)](https://www.linkedin.com/in/almeida-ruben)
 
